@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multiple Disease Prediction Web App & Docker Container
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -106,3 +107,6 @@ The machine learning models used in this web app are trained on publicly availab
 *This project is licensed under the [MIT License](LICENSE).*
 
 ---
+=======
+# Multiple_Disease_Prediction
+>>>>>>> 8dc67fea88e96a4430b3eb9fd92cde81982cea81
